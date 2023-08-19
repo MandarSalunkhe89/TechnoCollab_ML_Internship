@@ -3,3 +3,10 @@ kaggle link : https://www.kaggle.com/code/alexisbcook/handling-missing-values#Yo
 Dataset:
 Handling Missing Values
 Drop missing values, or fill them in with an automated workflow.
+
+Exercises:
+Ex1: Handling missing values. Drop missing values, or fill them in with an automated workflow.
+Ex2: Transform numeric variables to have helpful properties. how to scale and normalize data (and what the difference is between the two!).
+Ex3: Help Python recognize dates as composed of day, month, and year.
+Ex4: working with different character encodings.
+Ex5: learn how to clean up inconsistent text entries.
